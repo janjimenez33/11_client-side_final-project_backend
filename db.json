@@ -1,14 +1,32 @@
 {
-    "tasks": [
-      {
-        "id": 1,
-        "title": "Study json-server",
-        "completed": false
-      },
-      {
-        "id": 2,
-        "title": "Complete the client-side project",
-        "completed": true
-      }
-    ]
-  }
+  "books": [
+    {
+      "id": 1,
+      "title": "La isla del tesoro",
+      "author": "Robert Louis Stevenson",
+      "year": 1883,
+      "status": "read"
+    },
+    {
+      "id": 2,
+      "title": "Viaje al centro de la Tierra",
+      "author": "Julio Verne",
+      "year": 1864,
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "El principito",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943,
+      "status": "in progress"
+    },
+    {
+      "id": 4,
+      "title": "La sombra del viento",
+      "author": "Carlos Ruiz Zafón",
+      "year": 2001,
+      "status": "read"
+    }
+  ]
+}
