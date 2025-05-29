@@ -1,17 +1,10 @@
 {
   "books": [
     {
-      "id": 1,
-      "title": "La isla del tesoro",
-      "author": "Robert Louis Stevenson",
-      "year": 1883,
-      "status": "read"
-    },
-    {
       "id": 2,
       "title": "Viaje al centro de la Tierra",
       "author": "Julio Verne",
-      "year": 1864,
+      "year": "1867",
       "status": "pending"
     },
     {
@@ -27,6 +20,27 @@
       "author": "Carlos Ruiz Zafón",
       "year": 2001,
       "status": "read"
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter y el prisionero de Azkaban",
+      "author": "J.K. Rowling",
+      "year": 1999,
+      "status": "read"
+    },
+    {
+      "id": 6,
+      "title": "Book 1",
+      "author": "Author 1",
+      "year": "2025",
+      "status": "Pending"
+    },
+    {
+      "title": "Book 2",
+      "author": "Author 2",
+      "year": "2025",
+      "status": "Read",
+      "id": 7
     }
   ]
 }
